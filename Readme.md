@@ -1,5 +1,5 @@
 
-## Azure App Service Deploy
+## AppServiceにデプロイ
 
 ```sh
 # 環境変数設定

@@ -9,7 +9,7 @@ export ORG_GRADLE_PROJECT_SUBSCRIPTION=xxxxxxxxxxx-xxxxxx-xxxxxxx
 # リソースグループ
 export ORG_GRADLE_PROJECT_RESOURCE_GROUP=xxxxxxxxxxxxx
 # アプリ名
-export ORG_GRADLE_PROJECT_RESOURCE_APPNAME=xxxxxxxxxxxxx
+export ORG_GRADLE_PROJECT_APPNAME=xxxxxxxxxxxxx
 ```
 
 ### App Serviceにデプロイ
